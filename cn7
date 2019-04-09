@@ -1,0 +1,11 @@
+hi
+when use contact form 7 to page or post use under shortcode
+[contact-form-7 id="7" title="My awesome contact form"]
+use this code 1 problem,
+when use this code, send mail change name to wordpress or anything
+
+if change "wordpress" from name mail use this code :
+[contact-form-7 id="7" title="My awesome contact form" html_name="my_awesome_contact_form"]
+
+just use html_name="my_awesome_contact_form" to shortcode.
+
